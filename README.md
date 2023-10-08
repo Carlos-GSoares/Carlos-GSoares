@@ -1,9 +1,13 @@
 ## Bem-vindo(a) ao perfil do Carlos-Soares😁
 
+## 📊 &nbsp;Stats
+
  <div>
    <a href="https://github.com/carlos-gsoares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-gsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gsoares&layout=compact&langs_count=6&theme=tokyonight"/>
+
+## 🛠 &nbsp;Tech Stack
 
 
 </div>
