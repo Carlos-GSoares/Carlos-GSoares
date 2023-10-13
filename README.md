@@ -4,14 +4,14 @@
   </p>
 </div>
 
-## Bem-vindo(a) ao perfil do Carlos-Soares😁
+## 🚀 Sobre mim
+🚀 Em transição de carreira em busca da minha primeira oportunidade no mundo da tecnologia! 🌟 Sempre sedento por conhecimento e apaixonado por jogos e ficção científica 🎮📚. Aqui para aprender, criar e me superar a cada código! 💻✨ #EmBuscaDoPrimeiroDesafio
 
-## 📊 &nbsp;Stats
 
- <div>
-   <a href="https://github.com/carlos-gsoares">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=carlos-gsoares&theme=tokyonight&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats);
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gsoares&layout=compact&langs_count=6&theme=tokyonight"/>
+## Stars and contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=carlos-gsoares&theme=tokyonight&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+ 
 
 ## 🛠 &nbsp;Tech Stack
 
