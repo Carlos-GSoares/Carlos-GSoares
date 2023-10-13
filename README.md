@@ -1,4 +1,8 @@
-<img src="https://github.com/carlos-gsoares/carlos-gsoares/blob/main/src/image/logo-dev.jpeg" width="200" /> 
+<div align="center"> 
+  <p float="left">
+   <img src="https://github.com/carlos-gsoares/carlos-gsoares/blob/main/src/image/logo-dev.jpeg" width="400" /> 
+  </p>
+</div>
 
 ## Bem-vindo(a) ao perfil do Carlos-Soares😁
 
