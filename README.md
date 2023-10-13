@@ -1,4 +1,4 @@
-![Logo](https://github.com/carlos-gsoares/carlos-gsoares/blob/main/src/image/logo-dev.jpeg)
+<img src="https://github.com/carlos-gsoares/carlos-gsoares/blob/main/src/image/logo-dev.jpeg" width="200" /> 
 
 ## Bem-vindo(a) ao perfil do Carlos-Soares😁
 
