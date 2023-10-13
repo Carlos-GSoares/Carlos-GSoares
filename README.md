@@ -27,12 +27,16 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
 
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gsoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  <br>  
+<div>
+  ##Stats
 
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gsoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
- <br>
+  <br>
  
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
