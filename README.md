@@ -1,3 +1,5 @@
+![Logo]([https://lexica.art/prompt/bbf1e96a-4b4f-496e-bb03-32bdaad3388d](https://github.com/carlos-gsoares/carlos-gsoares/blob/main/src/image/logo-dev.jpeg))
+
 ## Bem-vindo(a) ao perfil do Carlos-Soares😁
 
 ## 📊 &nbsp;Stats
