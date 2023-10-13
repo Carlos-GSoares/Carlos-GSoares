@@ -10,8 +10,8 @@
 
  <div>
    <a href="https://github.com/carlos-gsoares">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-gsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gsoares&layout=compact&langs_count=6&theme=tokyonight"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=carlos-gsoares&theme=tokyonight&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gsoares&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ## 🛠 &nbsp;Tech Stack
 
